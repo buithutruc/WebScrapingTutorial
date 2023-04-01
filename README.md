@@ -1,3 +1,7 @@
+# Web Scraping Tutorial
+
+start with scraping a local html file
+
 # Encounter error "No Module named 'bs4'"
 
 follow these steps to check if the pip you are using lines up with the selected Python interpreter:
